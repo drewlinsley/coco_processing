@@ -1,0 +1,5 @@
+test2014/
+train2014/
+annotations/
+processed_output/
+*.npz
